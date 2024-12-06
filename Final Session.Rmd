@@ -26,4 +26,4 @@ library(rio)
 ```
 ##for checking the classes of all variables in the given data framr
 ##for checking the classes of all variables in the given data framr
-
+## we are able to take a time to make A conversion with my Best freinds... With my little angles
