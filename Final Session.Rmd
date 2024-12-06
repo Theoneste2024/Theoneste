@@ -24,5 +24,6 @@ install.packages("rio")
 library(rio)
 
 ```
-
+##for checking the classes of all variables in the given data framr
+##for checking the classes of all variables in the given data framr
 
