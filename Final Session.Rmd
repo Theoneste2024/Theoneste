@@ -1,0 +1,28 @@
+---
+title: "Last Session"
+author: "Theoneste"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+## R Markdown
+```{r}
+Ir<- iris
+
+```
+
+##for checking the classes of all variables in the given data framr
+```{r}
+dtypes <- c()
+for(i in 1:ncol(iris))
+{
+ print(class(iris[[i]]))
+}
+```
+```{r}
+install.packages("rio")
+library(rio)
+
+```
+
+
